@@ -1,1 +1,2 @@
-airbnb_clone project
+# Authors
+- James Odera
